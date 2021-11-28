@@ -7,3 +7,4 @@ Adding introduction
 ##Deployment
 working area
 ##How to contribute
+git pull rebase remote
